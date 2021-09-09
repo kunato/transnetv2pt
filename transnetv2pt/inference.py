@@ -1,3 +1,4 @@
+# https://github.com/soCzech/TransNetV2
 import torch
 from .transnetv2_pytorch import TransNetV2
 import ffmpeg
