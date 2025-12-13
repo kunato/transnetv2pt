@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="transnetv2pt",
-    version="1.0.0",
+    version="1.1.2",
     include_package_data=True,
     install_requires=[
         "torch>=1.7",

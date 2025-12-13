@@ -1,1 +1,3 @@
-from .inference import predict_video
+from .inference import SceneDetector
+
+__all__ = ["SceneDetector"]
